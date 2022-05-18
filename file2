@@ -4,3 +4,4 @@ working area
 index/staging area
 local repository
 push to remote repository
+git status
