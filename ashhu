@@ -6,3 +6,6 @@ kubernets
 ansible
 jeera
 docker
+vpc
+vpn
+subnet
